@@ -1,0 +1,29 @@
+.header{
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.tt2{
+    width: 100% !important;
+    margin: 0 !important;
+}
+
+.ajuste{
+    flex: auto !important;
+}
+
+.cont {
+    padding-bottom: 4rem;
+    padding-top: 4rem;
+}
+
+
+.centro{
+    display: block;
+    
+}
+
+.fundo{
+    position: relative;
+    bottom: 0px;
+}
